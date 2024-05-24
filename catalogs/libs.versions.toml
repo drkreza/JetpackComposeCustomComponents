@@ -70,7 +70,7 @@ stageStepBar = "1.1.0"
 plot = "0.1.2"
 composeTimelineView = "1.0.2"
 composeParticleSystem = "1.0.0-alpha02"
-ssJetPackComposeProgressButton = "1.0.7"
+ssJetPackComposeProgressButton = "1.0.8"
 gap = "1.1.0"
 permissionsUi = "0.1.8"
 htmlText = "1.5.0"
@@ -316,6 +316,7 @@ composeParticleSystem = { module = "me.nikhilchaudhari:quarks", version.ref = "c
 
 # https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton
 ssJetPackComposeProgressButton = { module = "com.github.SimformSolutionsPvtLtd:SSJetPackComposeProgressButton", version.ref = "ssJetPackComposeProgressButton" }
+
 
 # https://github.com/wasabeef/compose-gap
 gap = { module = "jp.wasabeef:gap", version.ref = "gap" }

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957620815042",
+    "project_id": "jetpack-compose-playgrou-92050",
+    "storage_bucket": "jetpack-compose-playgrou-92050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957620815042:android:7a5bd656870cab8578675b",
+        "android_client_info": {
+          "package_name": "drk.reza.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ItpqbejYEiM7DIcPVjE229umzhAtRAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

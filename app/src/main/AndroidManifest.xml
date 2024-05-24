@@ -6,6 +6,9 @@
     <uses-permission android:name="android.permission.CAMERA" />
 
     <uses-sdk tools:overrideLibrary="me.sungbin.timelineview" />
+    <uses-feature
+      android:name="android.hardware.camera"
+      android:required="false" />
 
     <application
         android:name=".PlaygroundApplication"
@@ -29,8 +32,8 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <data
-                    android:host="${appHost}"
-                    android:scheme="${appScheme}" />
+                    android:host="56754754677"
+                    android:scheme="45675467567567" />
             </intent-filter>
 
             <meta-data
@@ -80,7 +83,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="${mapsApiKey}" />
+            android:value="3463463634645yerhdfhdfh" />
 
         <profileable
             android:shell="true"

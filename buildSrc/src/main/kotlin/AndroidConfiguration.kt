@@ -6,7 +6,7 @@ object AndroidConfiguration {
     const val compileSdk = 34
     const val targetSdk = compileSdk
 
-    const val appId = "com.steleot.jetpackcompose.playground"
+    const val appId = "drk.reza.example"
     const val versionCode = 73
     const val versionName = "5.3.0"
 
